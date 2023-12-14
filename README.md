@@ -1,5 +1,9 @@
 # Vesuvius First Letters
 
+
+![ink detection](https://github.com/Melanee-Melanee/Vesuvius-First-Letters/assets/74653444/2d0bac05-fdc6-41d1-abb6-3cf1f5ef073e)
+
+
 This repository contains the second place solution to the Vesuvius First Letters challenge.
 
 The approach uses an I3D architecture to detect ink from within the scrolls
